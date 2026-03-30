@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "queso",
+        "price": 890.0,
+        "category": "lacteos",
+        "quantity": 89
+    }
+]
